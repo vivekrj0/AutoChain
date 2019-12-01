@@ -49,12 +49,6 @@ And use of Curl/Postman for making http request.
 
 ---
 
-## Authors
-
-**Vivek Raj**
-
----
-
 ## Licence
 
 This project is licensed under the MIT License. See LICENSE.md for more information.

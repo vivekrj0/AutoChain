@@ -1,4 +1,9 @@
 # AutoChain
+<div align="center">
+    <img src='image.png' />
+    <br />
+    <br />
+</div>
 **A decentralized blockchain for the network for automobile ownership.**</br>
 There have been lots of cases of robbery, fraud, fake, etc of the vehicles in the automobile industry. Many a time, the stolen vehicle is illegally found in someone’s house with illegal ownership. The core motivation is to reduce the appearance of 3rd party agents for safe and secure transactions.</br>
 The implementation of blockchain makes it easy to check a vehicle’s real history. Once data is entered into a blockchain, it becomes immutable, which means it can’t be changed. This eliminates data tampering and manipulation and dramatically reduces the risk of fraud. Since access to data is tracked, attempts to change data can be traced to the individual trying to make the changes. All of these features create a chain of trust that ensures that vehicle data remains accurate.</br>

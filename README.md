@@ -1,4 +1,5 @@
 # AutoChain
+[![Generic badge](https://img.shields.io/badge/build-passing-<COLOR>.svg)](https://tastedive-api-documentation.readthedocs.io/en/latest/?badge=latest)<br/>
 **A decentralized blockchain for the network for automobile ownership.**
 <div align="center">
     <img src='image.png' />
